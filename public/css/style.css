@@ -1,0 +1,27 @@
+body {
+	text-align:center;
+	background-color: red;
+}
+body img{
+	width:300px;
+	background-color:#ccc;
+	box-shadow: 2px 2px 2px #555;
+}
+body h2{
+	color: yellow;
+	font-family: verdana, tahoma;
+	text-align:center;
+	text-shadow: -2px 2px 0px #666,
+                 -4px 4px 0px #ccc,
+                 -6px 6px 2px #333;
+}
+.links {
+	padding-top: 20px;
+	font-size: 20px;
+}
+.block {
+	text-align: center;
+}
+body p {
+	color: yellow;
+}
